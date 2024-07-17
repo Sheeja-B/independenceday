@@ -25,13 +25,13 @@
     
     color: orange;
     text-shadow: 0 0 5px orange;
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: bolder;
     padding: 10px;
 }
 
 .inde {
-    font-size: 5rem;
+    font-size: 4rem;
     color: green;
     text-shadow: 0 0 5px green;
     margin-bottom: 20px;
@@ -42,7 +42,7 @@
 .day {
     color: blue;
     text-shadow: 0 0 5px blue;
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: bolder;
     padding: 10px;
 }
